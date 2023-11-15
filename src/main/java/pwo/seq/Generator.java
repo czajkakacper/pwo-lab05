@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package pwo.seq;
-
 import java.math.BigDecimal;
 import pwo.utils.SequenceGenerator;
 
